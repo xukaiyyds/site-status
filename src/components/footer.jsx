@@ -33,6 +33,7 @@ const Footer = () => {
           <CustomLink to="https://uptimerobot.com/" text="UptimeRobot" />
           &nbsp;接口&nbsp;|&nbsp;检测频率 5 分钟
         </p>
+        <!--
         <p>
           Copyright&nbsp;&copy;&nbsp;2020&nbsp;-&nbsp;{new Date().getFullYear()}
           &nbsp;
@@ -44,6 +45,7 @@ const Footer = () => {
             </React.Fragment>
           ) : null}
         </p>
+        -->
       </div>
     </footer>
   );
